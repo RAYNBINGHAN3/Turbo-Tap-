@@ -13,8 +13,10 @@ ecplise养牛游戏Turbo Tap合约直接交互版
 ### 分别填写替换代码中的 43，48 53行中的地址，顺序别填错！！！
 ![image](https://github.com/user-attachments/assets/bd2a7efa-32e5-4c0c-9ba5-491e838d90bc)
 
-## 然后没了， 点击频率自由发挥，看你自己
+## 然后没了， 点击频率自由发挥，看你自己改
 ![image](https://github.com/user-attachments/assets/a34d6a8a-01b0-4ae3-80c7-48052f81dbd4)
+
+### 最后执行： node tap.js
 
 ## 应该能看懂，如果你js代码都不知道如何跑起来，找gpt问一下
 
