@@ -40,17 +40,17 @@ class TapGameContract {
       programId: this.programId,
       keys: [
         { 
-          pubkey: new PublicKey(' '), //#1 -account
+          pubkey: new PublicKey(' '), //#1 -account 看教程填写正确
           isSigner: false, 
           isWritable: false 
         },
         { 
-          pubkey: new PublicKey(' '), //#2 -account
+          pubkey: new PublicKey(' '), //#2 -account 看教程填写正确
           isSigner: false, 
           isWritable: true 
         },
         { 
-          pubkey: new PublicKey(' '), //#3 -account
+          pubkey: new PublicKey(' '), //#3 -account 看教程填写正确
           isSigner: false, 
           isWritable: false 
         },
@@ -135,5 +135,5 @@ const game = new TapGameContract(privateKeyData);
 // 开始自动点击
 game.autoTap({
   delayMs: 100 + Math.random() * 320,
-  maxTaps: 1000000     // 最多50次点击
+  maxTaps: 1000000 //一次执行点击最大次数
 });
