@@ -16,9 +16,7 @@ ecplise养牛游戏Turbo Tap合约直接交互版
 ## 然后没了， 点击频率自由发挥，看你自己改
 ![image](https://github.com/user-attachments/assets/a34d6a8a-01b0-4ae3-80c7-48052f81dbd4)
 
-### 最后执行： node tap.js
+### 最后执行： ``` node tap.js ```
 
-## 应该能看懂，如果你js代码都不知道如何跑起来，找gpt问一下
-
-## 如果你实在跑不起来需要帮助，可以联系我推特，我提交完整教程和package（懂代码一看知道需要什么包）
+## 如果你js代码都不知道如何跑起来，找gpt问一下 。你实在跑不起来需要帮助，可以联系我推特，我提交完整教程和package（懂代码一看知道需要什么包）
  
